@@ -39,9 +39,7 @@ Threat hunting, telemetry analysis, and alert investigation using Microsoft Defe
 </tr>
 
 <tr>
-<td></td>
-
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🛡️ STIG and System Hardening Projects
 Compliance-aligned system hardening, credentialed scanning, and remediation validation supporting audit-ready evidence and security baseline enforcement.
@@ -51,8 +49,8 @@ Compliance-aligned system hardening, credentialed scanning, and remediation vali
 
 </td>
 </tr>
-
 </table>
+
 
 ---
 
