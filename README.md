@@ -16,57 +16,48 @@
 
 <hr/>
 
-<!-- “WEB-STYLE” PROJECT GRID -->
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <div style="border-left: 6px solid #f59e0b; padding: 12px 14px; border-radius: 12px; background: #0b1220;">
-        <h2>⚠️ Vulnerability Management Projects</h2>
-        <p>
-          End-to-end vulnerability workflows including scanning, validation, remediation tracking, and documentation.
-          Built to mirror real security operations, reporting, and audit-ready evidence.
-        </p>
-        <ul>
-          <li><a href="https://github.com/uchinerey-gift/Vulnerability-Management-Program-ImplementationProgrammatic"><b>Vulnerability Management Program Implementation</b></a></li>
-          <li><a href="https://github.com/uchinerey-gift/programmatic-vulnerability-remediations"><b>Programmatic Vulnerability Remediations</b></a> (PowerShell and Bash)</li>
-          <li><a href="https://github.com/uchinerey-gift/linux-vulnerability-scan"><b>Linux Vulnerability Scan</b></a></li>
-        </ul>
-      </div>
-    </td>
+<tr>
 
-    <td width="50%" valign="top">
-      <div style="border-left: 6px solid #ef4444; padding: 12px 14px; border-radius: 12px; background: #0b1220; margin-top: 18px;">
-        <h2>🚨 Threat Hunting and Security Operations</h2>
-        <p>
-          Practical threat hunting, alert investigation, and telemetry analysis using defender tooling and structured writeups.
-          Focused on finding signal, documenting conclusions, and communicating clearly.
-        </p>
-        <ul>
-          <li><a href="https://uchinerey-gift.github.io/mde-tor-threat-hunt/"><b>Threat Hunt Scenario</b></a> (Tor Browser Usage)</li>
-          <li><a href="https://github.com/uchinerey-gift/mde-advanced-hunting-telemetry-lab"><b>MDE Advanced Hunting Telemetry Lab</b></a></li>
-        </ul>
-      </div>
-    </td>
-  </tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td width="50%" valign="top"></td>
+### ⚠️ Vulnerability Management Projects
+End-to-end vulnerability workflows including scanning, validation, remediation tracking, and documentation aligned with real security operations.
 
-    <td width="50%" valign="top">
-      <div style="border-left: 6px solid #22c55e; padding: 12px 14px; border-radius: 12px; background: #0b1220; margin-top: 18px;">
-        <h2>🛡️ STIG and System Hardening Projects</h2>
-        <p>
-          Security configuration, compliance-aligned hardening, and validation using credentialed scanning and STIG-focused remediation.
-          Built with audit evidence and repeatable steps.
-        </p>
-        <ul>
-          <li><a href="https://github.com/uchinerey-gift/windows-11-credentialed-stig-vuln-scan"><b>Windows 11 Credentialed STIG Vulnerability Scan</b></a></li>
-          <li><a href="https://github.com/uchinerey-gift/win10-stig-wn10-au-000500"><b>Windows 10 STIG Remediation</b></a> (WN10-AU-000500)</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
+- **[Vulnerability Management Program Implementation](https://github.com/uchinerey-gift/Vulnerability-Management-Program-ImplementationProgrammatic)**
+- **[Programmatic Vulnerability Remediations](https://github.com/uchinerey-gift/programmatic-vulnerability-remediations)**
+- **[Linux Vulnerability Scan](https://github.com/uchinerey-gift/linux-vulnerability-scan)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚨 Threat Hunting and Security Operations
+Threat hunting, telemetry analysis, and investigation reporting focused on identifying suspicious activity and documenting findings clearly.
+
+- **[Threat Hunt Scenario](https://uchinerey-gift.github.io/mde-tor-threat-hunt/)**
+- **[MDE Advanced Hunting Telemetry Lab](https://github.com/uchinerey-gift/mde-advanced-hunting-telemetry-lab)**
+
+</td>
+
+</tr>
+
+<tr>
+<td></td>
+
+<td width="50%" valign="top">
+
+### 🛡️ STIG and System Hardening Projects
+Compliance-aligned system hardening, credentialed scanning, and remediation documentation supporting audit-ready evidence.
+
+- **[Windows 11 Credentialed STIG Scan](https://github.com/uchinerey-gift/windows-11-credentialed-stig-vuln-scan)**
+- **[Windows 10 STIG Remediation](https://github.com/uchinerey-gift/win10-stig-wn10-au-000500)**
+
+</td>
+</tr>
+
 </table>
+
 
 <hr/>
 
