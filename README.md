@@ -2,7 +2,13 @@
 
 **Junior Cybersecurity Analyst | Vulnerability Management | Threat Hunting | Security Operations**
 
-I am an early-career cybersecurity analyst focused on vulnerability management, threat hunting, and compliance-aligned security operations. I build hands-on, evidence-driven security projects that demonstrate my ability to investigate alerts, document findings, validate vulnerabilities, and support real-world security workflows. My background includes cybersecurity training, hands-on lab environments, and software engineering apprenticeship experience where I developed foundational web development skills using HTML, CSS, and JavaScript.
+I specialize in Vulnerability Management, Threat Hunting, Security Operations, and Governance Risk and Compliance (GRC). I build hands-on, evidence-driven cybersecurity labs that demonstrate practical experience in alert investigation, log analysis, vulnerability validation, remediation tracking, and incident documentation aligned with enterprise workflows.
+
+My technical experience includes building and securing Azure virtual machine environments, integrating Microsoft Sentinel SIEM for monitoring and detection, performing vulnerability scanning and remediation validation, and supporting control validation and security assessment activities aligned with NIST-based security frameworks.
+
+Through my Techtonica Software Engineering Apprenticeship, I developed foundational web development skills using HTML, CSS, and JavaScript, strengthening my understanding of application architecture and security considerations across modern systems.
+
+I am actively seeking opportunities where I can contribute to SOC operations, vulnerability management programs, incident response support, and GRC security initiatives while continuing to strengthen enterprise-level cybersecurity defense capabilities.
 
 **Portfolio:** https://uchinerey-gift.github.io  
 **GitHub:** https://github.com/uchinerey-gift  
